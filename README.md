@@ -10,8 +10,33 @@ projeto software para
 
 ```python
 
+pedido = 0 
 numero = 0
+qtd = 0
 opcao = ''
+endreco = ''
+obs = ''
+
+1 p~szjdpsjn
+2 sdl~kjfsdlç
+3 spojd~slç
+4 nlskdlçsan
+
+qual opca?
+1 2 23 4 5 5
+quantsam marmita 
+2
+qual enfd sçjsçljdãsjd~slçak
+obs 
++= 1 pedido
+
+pedido 1 
+2 maremita parmegian
+
+endrecoalexnadfre chaia 770 
+
+ovbs troco 50,00
+
 
 
 
