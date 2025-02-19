@@ -6,9 +6,14 @@ cargo: gerente de uma marmitaria
 
 Tenho ensino medio completo, experiencia em administrar uma micro-empresa, estou cursando Ciência da Computação.
 
+projeto software para marmitaria
+
 ```python
 
-def mostrar():
-    print('Hello World')
+numero = 0
+opcao = ''
+
+
+
 
 ```
