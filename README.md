@@ -38,14 +38,9 @@ endrecoalexnadfre chaia 770
 ovbs troco 50,00
 
 
-
-
-
 ```
 
 
-```html
 
 <img src="https://http2.mlstatic.com/D_NQ_NP_920527-MLB75128128901_032024-O.webp" alt="meu carro">
 
-```
