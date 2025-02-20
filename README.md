@@ -6,9 +6,13 @@ cargo: gerente de uma marmitaria
 
 Tenho ensino medio completo, experiencia em administrar uma micro-empresa, estou cursando Ciência da Computação.
 
-```python
+```js
+public class Main {
+    public static void main(String[] args) {
+        // Prints "Hello, World!" to the console
+        System.out.println("Hello, World!");
+    }
+}
 
-def mostrar():
-    print('Hello World')
 
 ```
